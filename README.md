@@ -45,6 +45,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,9 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
