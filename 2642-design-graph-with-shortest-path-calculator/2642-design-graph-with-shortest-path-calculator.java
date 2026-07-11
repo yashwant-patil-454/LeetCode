@@ -1,6 +1,6 @@
 class Graph {
 
-    static final int INF = 99999;
+    static final int INF = 1_000_000_000;
 
     int n;
     int[][] arr;
