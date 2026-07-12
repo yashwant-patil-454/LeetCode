@@ -34,6 +34,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,4 +87,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
