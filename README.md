@@ -30,6 +30,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
