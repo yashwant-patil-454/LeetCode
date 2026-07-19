@@ -5,11 +5,9 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '*' && !stack.isEmpty()) {
                 stack.pop();
+            } else {
+                stack.push(s.charAt(i));
             }
-            if (s.charAt(i) == '*') {
-                continue;
-            }
-            stack.push(s.charAt(i));
 
         }
         StringBuilder str = new StringBuilder();
