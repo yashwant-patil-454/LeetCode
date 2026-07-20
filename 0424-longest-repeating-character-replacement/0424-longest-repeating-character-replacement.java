@@ -13,8 +13,7 @@ class Solution {
                 freqCount[s.charAt(left) - 'A']--;
                 left++;
             }
-            window = right - left + 1;
-            maxWindow = Math.max(maxWindow, window);
+            maxWindow = Math.max(maxWindow, right - left + 1);
         }
 
         return maxWindow;
