@@ -68,6 +68,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,8 +139,10 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
