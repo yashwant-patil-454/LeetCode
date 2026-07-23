@@ -49,6 +49,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -118,6 +119,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Stack
 |  |
 | ------- |
