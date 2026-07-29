@@ -59,6 +59,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -128,6 +129,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3693-climbing-stairs-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3693-climbing-stairs-ii) |
