@@ -24,6 +24,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -45,6 +46,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0011-container-with-most-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
