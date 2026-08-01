@@ -9,6 +9,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +71,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -115,6 +117,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -123,6 +126,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +163,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
