@@ -48,6 +48,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -76,6 +77,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -146,6 +148,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3693-climbing-stairs-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Shortest Path
@@ -224,4 +227,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
