@@ -8,7 +8,7 @@ class Solution {
                 mid--;
             }
             if (nums[mid] == nums[mid + 1]) {
-                low = mid+2;
+                low = mid + 2;
             } else {
                 high = mid;
             }
