@@ -73,6 +73,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/yashwant-patil-454/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +94,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashwant-patil-454/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
