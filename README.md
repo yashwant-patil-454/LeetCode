@@ -49,6 +49,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0009-palindrome-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
@@ -117,6 +118,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
@@ -164,6 +166,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -261,9 +264,11 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
