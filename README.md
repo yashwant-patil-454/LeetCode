@@ -84,6 +84,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/yashwant-patil-454/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
@@ -180,6 +181,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
@@ -294,4 +296,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwant-patil-454/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
