@@ -12,10 +12,6 @@ dp[0][0] = 1;
                     continue;
                 }
 
-                // Skip starting cell because already initialized.
-                if (i == 0 && j == 0) {
-                    continue;
-                }
 
                 // From top
                 if (i > 0) {
