@@ -77,6 +77,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -176,6 +177,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yashwant-patil-454/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -303,6 +305,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 ## Combinatorics
 |  |
