@@ -103,6 +103,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashwant-patil-454/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -195,6 +196,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3693-climbing-stairs-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Shortest Path
@@ -312,6 +314,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
+| [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
