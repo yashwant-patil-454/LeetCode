@@ -32,6 +32,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -62,6 +63,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -230,6 +232,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -288,6 +291,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
