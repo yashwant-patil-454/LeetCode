@@ -93,6 +93,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-patil-454/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
@@ -321,6 +322,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwant-patil-454/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
