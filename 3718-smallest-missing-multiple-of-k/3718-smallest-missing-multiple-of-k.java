@@ -7,12 +7,11 @@ class Solution {
             set.add(num);
         }
 
-        int multiple = k;
+        for (int multiple = k;; multiple += k) {
 
-        while (set.contains(multiple)) {
-            multiple += k;
+            if (!set.contains(multiple)) {
+                return multiple;
+            }
         }
-
-        return multiple;
     }
 }
