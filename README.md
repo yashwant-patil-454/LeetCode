@@ -7,6 +7,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -28,6 +29,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0005-longest-palindromic-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
@@ -86,6 +88,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0016-3sum-closest](https://github.com/yashwant-patil-454/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -177,6 +180,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yashwant-patil-454/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
