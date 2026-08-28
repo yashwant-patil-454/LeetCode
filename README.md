@@ -10,6 +10,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -33,6 +34,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
@@ -185,6 +187,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
