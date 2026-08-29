@@ -30,13 +30,13 @@ class Solution {
 
         int[] left = dfs(node.left);
         int[] right = dfs(node.right);
-
+        int option[] = new int[2];
         // Rob current node
-        int rob = node.val + left[0] + right[0];
+        option[0] = node.val + left[1] + right[1];
 
         // Don't rob current node
-        int notRob = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
+        option[1] = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
 
-        return new int[] { notRob, rob };
+        return option;
     }
 }
