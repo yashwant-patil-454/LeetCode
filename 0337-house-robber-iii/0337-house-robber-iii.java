@@ -32,17 +32,11 @@ class Solution {
         int[] right = dfs(node.right);
 
         // Rob current node
-        int rob = node.val
-                + left[0]
-                + right[0];
+        int rob = node.val + left[0] + right[0];
 
         // Don't rob current node
-        int notRob = Math.max(left[0], left[1])
-                + Math.max(right[0], right[1]);
+        int notRob = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
 
-        return new int[] {
-                notRob,
-                rob
-        };
+        return new int[] { notRob, rob };
     }
 }
