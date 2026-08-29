@@ -152,6 +152,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -221,6 +222,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
+| [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -281,12 +283,14 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
@@ -361,5 +365,6 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## DP on Trees
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
