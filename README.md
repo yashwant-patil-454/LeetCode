@@ -40,6 +40,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
+| [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -230,6 +231,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3693-climbing-stairs-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Shortest Path
@@ -379,4 +381,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
