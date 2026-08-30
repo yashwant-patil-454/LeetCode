@@ -10,6 +10,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
@@ -33,6 +34,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
@@ -103,6 +105,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-patil-454/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
@@ -216,6 +219,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0120-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-patil-454/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/yashwant-patil-454/LeetCode/tree/master/0198-house-robber) |
@@ -298,6 +302,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -312,6 +317,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 ## Counting Sort
 |  |
 | ------- |
@@ -369,4 +375,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
