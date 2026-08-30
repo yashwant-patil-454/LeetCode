@@ -129,6 +129,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashwant-patil-454/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashwant-patil-454/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3693-climbing-stairs-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -255,6 +256,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
