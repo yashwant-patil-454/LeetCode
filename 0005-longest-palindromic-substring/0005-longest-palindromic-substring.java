@@ -1,42 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String longest = "";
+        int n = s.length();
+        if (n <= 1) {
+            return s;
+        }
 
-        // Generate all substrings
-        for (int i = 0; i < s.length(); i++) {
+        boolean[][] arr = new boolean[n][n];
 
-            for (int j = i + 1; j <= s.length(); j++) {
+        int start = 0;
+        int maxLength = 1;
+        for (int i = 0; i < n; i++) {
+            arr[i][i] = true;
+        }
 
-                String sub = s.substring(i, j);
+        for (int len = 2; len <= n; len++) {
 
-                // Check if substring is palindrome
-                if (isPalindrome(sub)) {
-
-                    if (sub.length() > longest.length()) {
-                        longest = sub;
+            for (int left = 0; left + len <= n; left++) {
+                int right = left + len - 1;
+                if (s.charAt(left) == s.charAt(right)
+                        && (len <= 2 || arr[left + 1][right - 1])) {
+                    arr[left][right] = true;
+                    if (len > maxLength) {
+                        maxLength = len;
+                        start = left;
                     }
                 }
             }
+
         }
-
-        return longest;
-    }
-
-    private boolean isPalindrome(String s) {
-
-        int left = 0;
-        int right = s.length() - 1;
-
-        while (left < right) {
-
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
-            }
-
-            left++;
-            right--;
-        }
-
-        return true;
+        return s.substring(start, start + maxLength);
     }
 }
