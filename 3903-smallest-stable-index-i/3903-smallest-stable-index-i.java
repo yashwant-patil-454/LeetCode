@@ -1,33 +1,28 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int n = nums.length;
+        for (int i = 0; i < nums.length; i++) {
+            int max = Integer.MIN_VALUE;
+            int min = Integer.MAX_VALUE;
 
-        int[] prefixMax = new int[n];
-        int[] suffixMin = new int[n];
-
-        // Build prefix maximum
-        prefixMax[0] = nums[0];
-
-        for (int i = 1; i < n; i++) {
-            prefixMax[i] = Math.max(prefixMax[i - 1], nums[i]);
-        }
-
-        // Build suffix minimum
-        suffixMin[n - 1] = nums[n - 1];
-
-        for (int i = n - 2; i >= 0; i--) {
-            suffixMin[i] = Math.min(suffixMin[i + 1], nums[i]);
-        }
-
-        // Find the smallest stable index
-        for (int i = 0; i < n; i++) {
-            int instability = prefixMax[i] - suffixMin[i];
-
-            if (instability <= k) {
+            int j = i;
+            while (j >= 0) {
+                if (nums[j] >= max) {
+                    max = nums[j];
+                }
+                j--;
+            }
+            int l = i;
+            while (l <= nums.length - 1) {
+                if (nums[l] <= min) {
+                    min = nums[l];
+                }
+                l++;
+            }
+            int diff = max - min;
+            if (diff <= k) {
                 return i;
             }
         }
-
         return -1;
     }
 }
