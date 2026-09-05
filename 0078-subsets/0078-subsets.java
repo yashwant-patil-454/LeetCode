@@ -9,6 +9,7 @@ class Solution {
         result.add(new ArrayList<>(temp));
 
         for (int i = start; i < nums.length; i++) {
+
             temp.add(nums[i]);
 
             backtracks(result, i + 1, temp, nums);
