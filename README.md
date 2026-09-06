@@ -100,6 +100,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yashwant-patil-454/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
@@ -408,6 +409,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yashwant-patil-454/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
