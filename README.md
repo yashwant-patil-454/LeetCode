@@ -33,6 +33,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0014-longest-common-prefix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/0072-edit-distance) |
@@ -228,6 +229,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yashwant-patil-454/LeetCode/tree/master/0062-unique-paths) |
@@ -395,6 +397,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yashwant-patil-454/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
