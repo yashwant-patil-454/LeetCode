@@ -62,6 +62,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashwant-patil-454/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -139,6 +140,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashwant-patil-454/LeetCode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -255,6 +257,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -279,6 +282,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0540-single-element-in-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/yashwant-patil-454/LeetCode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -421,4 +425,12 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0039-combination-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yashwant-patil-454/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
