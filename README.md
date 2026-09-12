@@ -38,6 +38,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/yashwant-patil-454/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/yashwant-patil-454/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -83,6 +84,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0009-palindrome-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/yashwant-patil-454/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/yashwant-patil-454/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
@@ -323,6 +325,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
@@ -397,6 +400,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwant-patil-454/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
