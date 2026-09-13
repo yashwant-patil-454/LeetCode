@@ -144,6 +144,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-patil-454/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
+| [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
@@ -411,6 +414,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0064-minimum-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
