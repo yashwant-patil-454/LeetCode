@@ -9,6 +9,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-patil-454/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
@@ -121,6 +122,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/yashwant-patil-454/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-patil-454/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yashwant-patil-454/LeetCode/tree/master/0118-pascals-triangle) |
@@ -412,6 +414,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-patil-454/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
