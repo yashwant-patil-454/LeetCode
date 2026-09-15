@@ -56,6 +56,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
+| [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -162,6 +163,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashwant-patil-454/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -225,6 +227,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
+| [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
