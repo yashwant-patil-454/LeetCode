@@ -1,15 +1,23 @@
 class Solution {
     public long zeroFilledSubarray(int[] nums) {
-        int left = 0;
-        long count = 0;
-        for (int right = 0; right < nums.length; right++) {
-            if (nums[right] == 0) {
+        long answer = 0;
+        long consecutiveZeros = 0;
 
-                count += (long) (right - left + 1);
+        for (int num : nums) {
+
+            if (num == 0) {
+                // Extend the current consecutive-zero subarray.
+                consecutiveZeros++;
+
+                // Every zero can form a new subarray ending at this position.
+                answer += consecutiveZeros;
+
             } else {
-                left = right + 1;
+                // A non-zero value breaks the consecutive-zero sequence.
+                consecutiveZeros = 0;
             }
         }
-        return count;
+
+        return answer;
     }
 }
