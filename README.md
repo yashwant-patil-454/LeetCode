@@ -54,6 +54,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -231,6 +232,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -330,6 +332,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -345,6 +348,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
