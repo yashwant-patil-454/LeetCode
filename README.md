@@ -151,6 +151,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-patil-454/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashwant-patil-454/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -284,6 +286,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
+| [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -311,6 +314,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/yashwant-patil-454/LeetCode/tree/master/0704-binary-search) |
@@ -323,6 +327,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
