@@ -57,6 +57,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0443-string-compression](https://github.com/yashwant-patil-454/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -427,6 +428,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
 ## Enumeration
 |  |
@@ -512,4 +514,16 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
