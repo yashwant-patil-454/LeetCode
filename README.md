@@ -136,6 +136,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0035-search-insert-position](https://github.com/yashwant-patil-454/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0055-jump-game) |
@@ -283,6 +284,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0005-longest-palindromic-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashwant-patil-454/LeetCode/tree/master/0062-unique-paths) |
@@ -344,6 +346,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
