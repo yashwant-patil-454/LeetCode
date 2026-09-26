@@ -4,8 +4,11 @@ class Solution {
         Map<String, String> map = new HashMap<>();
 
         for (List<String> pair : knowledge) {
+
             map.put(pair.get(0), pair.get(1));
+
         }
+
         StringBuilder newStr = new StringBuilder();
 
         int i = 0;
