@@ -25,6 +25,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashwant-patil-454/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashwant-patil-454/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashwant-patil-454/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -64,6 +65,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -180,6 +182,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashwant-patil-454/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
