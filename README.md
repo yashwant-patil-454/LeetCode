@@ -56,6 +56,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yashwant-patil-454/LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
@@ -437,6 +438,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
 ## Enumeration
@@ -526,10 +528,12 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Z Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
