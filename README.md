@@ -179,6 +179,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1306-jump-game-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashwant-patil-454/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -225,6 +226,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwant-patil-454/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashwant-patil-454/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -234,6 +236,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0542-01-matrix) |
+| [1306-jump-game-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
