@@ -176,6 +176,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashwant-patil-454/LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0860-lemonade-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -358,6 +359,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
