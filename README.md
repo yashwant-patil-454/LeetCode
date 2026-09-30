@@ -6,6 +6,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
@@ -133,6 +134,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashwant-patil-454/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0015-3sum) |
