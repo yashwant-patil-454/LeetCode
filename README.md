@@ -47,6 +47,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yashwant-patil-454/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
@@ -309,6 +310,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
@@ -391,6 +393,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -518,6 +521,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
