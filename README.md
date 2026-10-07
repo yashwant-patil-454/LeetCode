@@ -117,6 +117,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +170,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0128-longest-consecutive-sequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
@@ -401,6 +403,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0020-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0678-valid-parenthesis-string) |
