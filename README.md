@@ -57,6 +57,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +121,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0069-sqrtx](https://github.com/yashwant-patil-454/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashwant-patil-454/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/yashwant-patil-454/LeetCode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -407,6 +410,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0032-longest-valid-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0678-valid-parenthesis-string) |
