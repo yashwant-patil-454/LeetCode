@@ -24,12 +24,15 @@ class Solution {
                 stack.push(sign);
                 result = 0;
                 sign = 1;
-            } else if (ch == ')') {
-                result += sign * number;
                 number = 0;
+            } else if (ch == ')') {
+                result += number * sign;
 
-                result *= stack.pop();
-                result += stack.pop();
+                int prevSign = stack.pop();
+                int prevResult = stack.pop();
+                result = prevResult + prevSign * result;
+                sign = 1;
+                number = 0;
             }
         }
         result += sign * number;
