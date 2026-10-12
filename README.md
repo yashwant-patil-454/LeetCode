@@ -246,6 +246,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Depth-First Search
 |  |
@@ -586,6 +587,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -623,4 +625,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
