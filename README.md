@@ -72,6 +72,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
+| [0709-to-lower-case](https://github.com/yashwant-patil-454/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/yashwant-patil-454/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/0856-score-of-parentheses) |
