@@ -21,6 +21,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yashwant-patil-454/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwant-patil-454/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -63,6 +64,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/yashwant-patil-454/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yashwant-patil-454/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yashwant-patil-454/LeetCode/tree/master/0443-string-compression) |
@@ -320,6 +322,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0217-contains-duplicate](https://github.com/yashwant-patil-454/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yashwant-patil-454/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwant-patil-454/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yashwant-patil-454/LeetCode/tree/master/0455-assign-cookies) |
@@ -542,6 +545,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/yashwant-patil-454/LeetCode/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwant-patil-454/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
