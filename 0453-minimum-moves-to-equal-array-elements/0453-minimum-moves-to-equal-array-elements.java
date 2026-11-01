@@ -1,11 +1,19 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int min = Integer.MAX_VALUE;
-        int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-            min = Math.min(min, nums[i]);
+        // Find the minimum element in the array
+        int min = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < min) {
+                min = nums[i];
+            }
         }
-        return sum - nums.length * min;
+
+        // Sum the differences between each element and the minimum
+        int moves = 0;
+        for (int num : nums) {
+            moves += num - min;
+        }
+
+        return moves;
     }
 }
