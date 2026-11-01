@@ -72,6 +72,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0451-sort-characters-by-frequency](https://github.com/yashwant-patil-454/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/yashwant-patil-454/LeetCode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yashwant-patil-454/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -311,6 +312,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/yashwant-patil-454/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/yashwant-patil-454/LeetCode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0633-sum-of-square-numbers) |
