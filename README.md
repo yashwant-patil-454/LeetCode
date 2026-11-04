@@ -107,6 +107,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashwant-patil-454/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/yashwant-patil-454/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashwant-patil-454/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -202,6 +203,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0217-contains-duplicate](https://github.com/yashwant-patil-454/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/yashwant-patil-454/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/yashwant-patil-454/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/yashwant-patil-454/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -403,6 +405,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwant-patil-454/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -625,12 +628,14 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Z Algorithm
 |  |
@@ -681,4 +686,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashwant-patil-454/LeetCode/tree/master/0169-majority-element) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
