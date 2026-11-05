@@ -1,28 +1,24 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        Arrays.sort(arr2);
-
         int count = 0;
 
-        for (int num : arr1) {
+        // Iterate through each element of arr1
+        for (int i = 0; i < arr1.length; i++) {
 
-            int left = 0;
-            int right = arr2.length;
+            boolean found = false;
 
-            // Find first element >= num - d
-            while (left < right) {
+            // Compare current arr1 element with every arr2 element
+            for (int j = 0; j < arr2.length; j++) {
 
-                int mid = left + (right - left) / 2;
-
-                if (arr2[mid] < num - d) {
-                    left = mid + 1;
-                } else {
-                    right = mid;
+                // Check whether absolute difference is <= d
+                if (Math.abs(arr1[i] - arr2[j]) <= d) {
+                    found = true;
+                    break;
                 }
             }
 
-            // Check whether the element falls within the range
-            if (left == arr2.length || arr2[left] > num + d) {
+            // Count only if no nearby element exists in arr2
+            if (!found) {
                 count++;
             }
         }
