@@ -123,6 +123,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashwant-patil-454/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashwant-patil-454/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yashwant-patil-454/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -280,6 +282,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashwant-patil-454/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/yashwant-patil-454/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Design
