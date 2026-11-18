@@ -89,6 +89,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashwant-patil-454/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashwant-patil-454/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +244,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwant-patil-454/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashwant-patil-454/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -570,6 +572,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0459-repeated-substring-pattern](https://github.com/yashwant-patil-454/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yashwant-patil-454/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
