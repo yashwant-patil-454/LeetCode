@@ -15,6 +15,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0128-longest-consecutive-sequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/yashwant-patil-454/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yashwant-patil-454/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashwant-patil-454/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashwant-patil-454/LeetCode/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashwant-patil-454/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
@@ -336,6 +338,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/yashwant-patil-454/LeetCode/tree/master/0443-string-compression) |
@@ -727,4 +730,8 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
