@@ -158,6 +158,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0877-stone-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashwant-patil-454/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/yashwant-patil-454/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +248,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashwant-patil-454/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/yashwant-patil-454/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashwant-patil-454/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -290,6 +292,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashwant-patil-454/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashwant-patil-454/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yashwant-patil-454/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -302,6 +305,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0303-range-sum-query-immutable](https://github.com/yashwant-patil-454/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashwant-patil-454/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/yashwant-patil-454/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Depth-First Search
 |  |
@@ -718,6 +722,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/yashwant-patil-454/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
