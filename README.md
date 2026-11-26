@@ -137,6 +137,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0002-add-two-numbers](https://github.com/yashwant-patil-454/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/yashwant-patil-454/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashwant-patil-454/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
@@ -349,6 +350,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0042-trapping-rain-water](https://github.com/yashwant-patil-454/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashwant-patil-454/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -375,6 +377,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0016-3sum-closest](https://github.com/yashwant-patil-454/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/yashwant-patil-454/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yashwant-patil-454/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashwant-patil-454/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/yashwant-patil-454/LeetCode/tree/master/0217-contains-duplicate) |
@@ -556,6 +559,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashwant-patil-454/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashwant-patil-454/LeetCode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
@@ -754,6 +758,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashwant-patil-454/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/yashwant-patil-454/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
