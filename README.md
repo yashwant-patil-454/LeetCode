@@ -213,6 +213,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yashwant-patil-454/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/yashwant-patil-454/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashwant-patil-454/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashwant-patil-454/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -626,6 +627,7 @@ Java solutions for LeetCode problems with detailed explanations and optimized al
 | [0067-add-binary](https://github.com/yashwant-patil-454/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yashwant-patil-454/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashwant-patil-454/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/yashwant-patil-454/LeetCode/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/yashwant-patil-454/LeetCode/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashwant-patil-454/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
